@@ -13,5 +13,6 @@
 *   Student's study hours range from 1.1 hrs - 9.2 hrs where 1.1hrs is the minimum, 9.2 is the maximum and median number of hours students studied is 4.8.
 *   Correlation between Hours vs Scores is 0.9761. Hence their is a positive linear relationship between Hours studied and Students percentage score.
 *   **Problem Statement :**  Predict score of a student when student studies for 9.5 hrs/day. 
+    
     Using simple linear regression to predict student's percentage score. Linear regression model has predicted the percentage score as 96.169 when student studies for 9.5             hrs/day.
 *  The Simple Linear Regression model performs well as the R-Squared value is 0.945. 
