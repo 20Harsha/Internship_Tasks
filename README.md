@@ -16,3 +16,5 @@
     
     Using simple linear regression to predict student's percentage score. Linear regression model has predicted the percentage score as 96.169 when student studies for 9.5             hrs/day.
 *  The Simple Linear Regression model performs well as the R-Squared value is 0.945. 
+
+*  Youtube link : https://youtu.be/vakaYX7j9Ts
