@@ -18,3 +18,22 @@
 *  The Simple Linear Regression model performs well as the R-Squared value is 0.945. 
 
 *  Youtube link : https://youtu.be/vakaYX7j9Ts
+
+## Task 2 :  Prediction using Unsupervised Machine Learning
+
+1. Predict the optimum number of clusters from the iris dataset and represent it visually.
+2. You can use R or Python to perform this task.
+
+# Results: 
+* The dataset consist of Id ,Sepal length, Sepal width, Petal length ,Petal width and Species.
+
+* There are 150 rows and 6 columns.
+
+* **Problem Statement** : Predict the optimum number of clusters from the iris dataset and represent it visually. 
+
+![Capture](https://user-images.githubusercontent.com/87359806/148569270-7ab885e4-bf04-4a70-ba52-59b98bc4b61e.PNG)
+
+
+* From the above plot using elbow method we can see that our elbow point occurs at 3 .So the number of optimum clusters for iris dataset will be 3.
+
+* KMeans is an unsupervised machine learning algorithm. Using Kmeans the data has been clustered. It divides the data into 3 clusters of flower species they are Iris-setosa, Iris-versicolour and Iris-virginica.
