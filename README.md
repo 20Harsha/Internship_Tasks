@@ -37,3 +37,6 @@
 * From the above plot using elbow method we can see that our elbow point occurs at 3 .So the number of optimum clusters for iris dataset will be 3.
 
 * KMeans is an unsupervised machine learning algorithm. Using Kmeans the data has been clustered. It divides the data into 3 clusters of flower species they are Iris-setosa, Iris-versicolour and Iris-virginica.
+* Youtube link : https://youtu.be/qaS_uVuR8ag![image](https://user-images.githubusercontent.com/87359806/148667482-ca819e57-ddfa-4eac-96ae-950f8bee5515.png)
+
+
