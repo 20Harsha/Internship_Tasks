@@ -59,3 +59,4 @@
 *   Maximum Sales are from states California, New York & Minimum sales are from North Dakota, West Virginia.
 *   State California & New Yok has recorded the maximum profit whereas Texas, Ohio, Pennsylvania in these states products has occured loss. So discount given in these states can be reduced to increase profit. 
 *   As maximum sales are in states California, NewYork so sales can be increased in these areas to gain profit and In technology category company is getting benefitted so increase in sales of these category can increase profit. 
+*   Youtube link : https://youtu.be/KGFVlLMektQ![image](https://user-images.githubusercontent.com/87359806/149663331-94d33b4e-5bb7-4cc1-bbaf-289ef9403935.png)
