@@ -39,4 +39,23 @@
 * KMeans is an unsupervised machine learning algorithm. Using Kmeans the data has been clustered. It divides the data into 3 clusters of flower species they are Iris-setosa, Iris-versicolour and Iris-virginica.
 * Youtube link : https://youtu.be/qaS_uVuR8ag![image](https://user-images.githubusercontent.com/87359806/148667482-ca819e57-ddfa-4eac-96ae-950f8bee5515.png)
 
+## Task 3 Exploratory Data Analysis - Retail
 
+1. Perform 'Exploratory Data Analysis' on dataset 'SampleSuperstore'.
+2. As a business manager, try to find out the weak areas where you can work to make more profit. 
+3. What all business problems you can derive by exploring the data?
+4. Data can be found at https://bit.ly/3i4rbWl
+5. You can use (Python/R/Tableau/PowerBI/Excel/SAS/SAP)
+
+# Results: 
+**Problem Statement** : Find out weak areas where you can work to make profit and what all business problem can be derived by exploring data.
+*   Standard Class in ShipMode has recorded the highest profit and Same Day has recorded the lowest profit.
+*   There are 3 segments selling products they are Consumer, Corporate & Home Office where Consumer segment has recorded maximum profit followed by Corporate whereas Home Offices recorded minimum profit.
+*    In United States the products are sold where West region has recorded maximum profit followed by East and lowest being recorded in Central region.  
+*    Top 5 most sold products Sub-Category wise are Phones, Chairs, Storage, Tables & Binders.
+*    Top 5 least sold products Sub-Category wise are Fasteners, Labels, Envelopes, Art & Supplies.
+*    When the discount given on a product is beyond 20% then company is getting a loss instead of gainning profit.
+*    Maximum profit is gained by Copiers, Phones, Accessories ,Paper, Binders whereas Tables has recorded maximim loss followed by Bookcases & Supplies.Hence discount given on these products can be reduced to increase profit.
+*   Maximum Sales are from states California, New York & Minimum sales are from North Dakota, West Virginia.
+*   State California & New Yok has recorded the maximum profit whereas Texas, Ohio, Pennsylvania in these states products has occured loss. So discount given in these states can be reduced to increase profit. 
+*   As maximum sales are in states California, NewYork so sales can be increased in these areas to gain profit and In technology category company is getting benefitted so increase in sales of these category can increase profit. 
