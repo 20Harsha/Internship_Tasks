@@ -1,5 +1,5 @@
 # The Sparks Foundation Internship tasks
-## Task 1 : Prediction using Supervised Machine Learning
+## Task 1: Prediction using Supervised Machine Learning
 
 1. Predict the percentage of an student based on the no. of study hours.This is Simple Linear Regression task as it involve only 2 variables.
 2. Data can be found at http://bit.ly/w-data
@@ -19,7 +19,7 @@
 
 *  Youtube link : https://youtu.be/vakaYX7j9Ts
 
-## Task 2 :  Prediction using Unsupervised Machine Learning
+## Task 2:  Prediction using Unsupervised Machine Learning
 
 1. Predict the optimum number of clusters from the iris dataset and represent it visually.
 2. You can use R or Python to perform this task.
@@ -39,7 +39,7 @@
 * KMeans is an unsupervised machine learning algorithm. Using Kmeans the data has been clustered. It divides the data into 3 clusters of flower species they are Iris-setosa, Iris-versicolour and Iris-virginica.
 * Youtube link : https://youtu.be/qaS_uVuR8ag![image](https://user-images.githubusercontent.com/87359806/148667482-ca819e57-ddfa-4eac-96ae-950f8bee5515.png)
 
-## Task 3 Exploratory Data Analysis - Retail
+## Task 3: Exploratory Data Analysis - Retail
 
 1. Perform 'Exploratory Data Analysis' on dataset 'SampleSuperstore'.
 2. As a business manager, try to find out the weak areas where you can work to make more profit. 
