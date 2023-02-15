@@ -18,6 +18,7 @@
 *  The Simple Linear Regression model performs well as the R-Squared value is 0.945. 
 
 *  Youtube link : https://youtu.be/vakaYX7j9Ts
+*  LinkedIn Post : https://www.linkedin.com/posts/harshakumavat2000_task1-gripjan22-gripjanuary22-activity-6884138891713101824-Cyp1?utm_source=share&utm_medium=member_desktop 
 
 ## Task 2:  Prediction using Unsupervised Machine Learning
 
@@ -38,6 +39,7 @@
 
 * KMeans is an unsupervised machine learning algorithm. Using Kmeans the data has been clustered. It divides the data into 3 clusters of flower species they are Iris-setosa, Iris-versicolour and Iris-virginica.
 * Youtube link : https://youtu.be/qaS_uVuR8ag![image](https://user-images.githubusercontent.com/87359806/148667482-ca819e57-ddfa-4eac-96ae-950f8bee5515.png)
+* LinkedIn Post : https://www.linkedin.com/posts/harshakumavat2000_task2-gripjan22-gripjanuary22-activity-6885519871359234048-BQgP?utm_source=share&utm_medium=member_desktop
 
 ## Task 3: Exploratory Data Analysis - Retail
 
@@ -60,3 +62,4 @@
 *   State California & New Yok has recorded the maximum profit whereas Texas, Ohio, Pennsylvania in these states products has occured loss. So discount given in these states can be reduced to increase profit. 
 *   As maximum sales are in states California, NewYork so sales can be increased in these areas to gain profit and In technology category company is getting benefitted so increase in sales of these category can increase profit. 
 *   Youtube link : https://youtu.be/KGFVlLMektQ![image](https://user-images.githubusercontent.com/87359806/149663331-94d33b4e-5bb7-4cc1-bbaf-289ef9403935.png)
+*   LinkedIn Post : https://www.linkedin.com/posts/harshakumavat2000_task3-gripjan22-gripjanuary22-activity-6888484236651839488-QwYq?utm_source=share&utm_medium=member_desktop
